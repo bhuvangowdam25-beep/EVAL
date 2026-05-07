@@ -6,4 +6,6 @@ scm project
 creating files
 commiting 
 reading file
+creating branchs
+merging the files
 
